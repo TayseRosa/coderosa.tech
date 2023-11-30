@@ -235,8 +235,11 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.gif") top right;
+  
+  background: url("https://img.freepik.com/premium-vector/abstract-dark-blue-gradient-circles-background-vector-illustration_518299-622.jpg?size=626&ext=jpg&ga=GA1.1.722450471.1699883579&semt=ais");
   background-size: cover;
+  
+  /*background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(94, 9, 94, 0.95) 0%, rgb(54, 4, 54) 90% );*/
 }
 
 #hero:before {
